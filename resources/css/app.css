@@ -1,0 +1,33 @@
+body {
+    background: darkgrey;
+    width: 100vw;
+    height: 100vh;
+}
+.navbar a:hover {
+    color: burlywood;
+}
+.authForm .form {
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    background: #fff;
+    padding: 50px;
+    border-radius: 5px;
+    margin-top: 6rem;
+}
+.submitBtn {
+    width: 100%;
+}
+#register .form {
+    margin-top: 3rem;
+}
+.navbar .router-link-active {
+    background: antiquewhite;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: #000;
+}
+.navbar-nav li.nav-item {
+    margin-left: 30px;
+}
+table .btn {
+    font-size: 12px;
+}
